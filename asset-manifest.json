@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Frontend/public/index.html/static/css/main.e4cda16e.css",
+    "main.js": "/Frontend/public/index.html/static/js/main.f153c4f8.js",
+    "static/js/787.47855dff.chunk.js": "/Frontend/public/index.html/static/js/787.47855dff.chunk.js",
+    "static/media/Login.jpg": "/Frontend/public/index.html/static/media/Login.4de5765b754d23b5fcdf.jpg",
+    "static/media/signup.jpg": "/Frontend/public/index.html/static/media/signup.85e7099f6c25250b09a8.jpg",
+    "static/media/order-icon.png": "/Frontend/public/index.html/static/media/order-icon.f105e51fbce5fed40828.png",
+    "static/media/logo.png": "/Frontend/public/index.html/static/media/logo.22e25947b87e8a3fb22c.png",
+    "static/media/notification-bell.png": "/Frontend/public/index.html/static/media/notification-bell.051ffba36a7db5d8929d.png",
+    "static/media/sales-icon.png": "/Frontend/public/index.html/static/media/sales-icon.86f91f6b0e7d1d61a482.png",
+    "static/media/dashboard-icon.png": "/Frontend/public/index.html/static/media/dashboard-icon.a726b766288bd16652de.png",
+    "static/media/supplier-icon.png": "/Frontend/public/index.html/static/media/supplier-icon.5f4443013fa98f20283b.png",
+    "static/media/inventory-icon.png": "/Frontend/public/index.html/static/media/inventory-icon.6eb094a4b2810e3fc316.png",
+    "index.html": "/Frontend/public/index.html/index.html",
+    "main.e4cda16e.css.map": "/Frontend/public/index.html/static/css/main.e4cda16e.css.map",
+    "main.f153c4f8.js.map": "/Frontend/public/index.html/static/js/main.f153c4f8.js.map",
+    "787.47855dff.chunk.js.map": "/Frontend/public/index.html/static/js/787.47855dff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4cda16e.css",
+    "static/js/main.f153c4f8.js"
+  ]
+}
